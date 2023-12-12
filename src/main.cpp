@@ -1,7 +1,7 @@
 /*
- * Author:
- * Date:
- * Name:
+ * Author: 20221400164
+ * Date: 12.12.2023
+ * Name: Shomurod Anvarov
  */
 
 //problem 10
